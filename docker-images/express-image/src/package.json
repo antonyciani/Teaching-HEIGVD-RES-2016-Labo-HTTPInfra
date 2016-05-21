@@ -1,0 +1,15 @@
+{
+  "name": "reslabhttppart2",
+  "version": "1.0.0",
+  "description": "part 2 of RES course, dynamic HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ciani Antony",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.3",
+    "express": "^4.13.4"
+  }
+}
