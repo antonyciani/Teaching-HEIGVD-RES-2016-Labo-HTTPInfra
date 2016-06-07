@@ -65,6 +65,8 @@ function generatePizzas() {
 		
 		
 	}
+	
+	
 
 	console.log(pizzas);
 	return pizzas;
